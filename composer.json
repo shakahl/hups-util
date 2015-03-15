@@ -1,0 +1,41 @@
+{
+    "name": "shakahl/hups-util",
+    "version": "0.0.1",
+    "type": "library",
+    "license": "MIT",
+    "description": "Wrapper package for Hups framework utilities.",
+    "keywords": [
+        "php",
+        "framework",
+        "utility",
+        "package"
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/shakahl/hups-util.git"
+        }
+    ],
+    "homepage": "https://github.com/shakahl/hups-util",
+    "authors": [
+        {
+            "name": "Szélpál Soma",
+            "email": "szelpalsoma+hups@gmail.com",
+            "homepage": "https://github.com/shakahl",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "shakahl/hups-util-filedownloader": "*",
+        "shakahl/hups-util-phptemplate": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hups\\Util\\": "src/Hups/Util/"
+        }
+    }
+}
