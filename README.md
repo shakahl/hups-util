@@ -5,6 +5,8 @@ Hups framework utilities
 
 ## Installation
 
+https://packagist.org/packages/shakahl/hups-util
+
 Add `shakahl/hups-util` as a requirement to `composer.json`:
 
 ```javascript
