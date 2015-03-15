@@ -25,4 +25,4 @@ You can also add the package using `composer require shakahl/hups-util` and late
 
 -   [Hups\\Util\\PHPTemplate](https://github.com/shakahl/hups-util-phptemplate)
 -   [Hups\\Util\\FileDownloader](https://github.com/shakahl/hups-util-filedownloader)
-
+-   [Hups\\Util\\HTMLCompressor](https://github.com/shakahl/hups-util-htmlcompressor)

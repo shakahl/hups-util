@@ -28,7 +28,8 @@
     "require": {
         "php": ">=5.4.0",
         "shakahl/hups-util-filedownloader": "dev-master",
-        "shakahl/hups-util-phptemplate": "dev-master"
+        "shakahl/hups-util-phptemplate": "dev-master",
+        "shakahl/hups-util-htmlcompressor": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*"
